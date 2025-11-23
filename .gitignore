@@ -23,6 +23,5 @@ ENV/
 
 # Large output files (excluded due to GitHub file size limits)
 outputs/*.zip
-outputs/*/best.pt
-outputs/*/last.pt
-outputs/*/retrieval.pt
+outputs.zip
+# Note: .pt files are tracked with Git LFS (see .gitattributes)
