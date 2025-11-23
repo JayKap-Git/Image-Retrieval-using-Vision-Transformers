@@ -1,0 +1,75 @@
+{
+  "Clothing_wrist_watch": {
+    "precision": 1.0,
+    "recall": 0.9,
+    "f1-score": 0.9473684210526315,
+    "support": 10.0
+  },
+  "Electronics_Accessories_mouse": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9.0
+  },
+  "Personal_Care_shampoo_bottle": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9.0
+  },
+  "cosmetics_nailpolish": {
+    "precision": 1.0,
+    "recall": 0.8888888888888888,
+    "f1-score": 0.9411764705882353,
+    "support": 9.0
+  },
+  "food_storage_plastic_container": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9.0
+  },
+  "stationary_pen": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9.0
+  },
+  "Clothing_belt": {
+    "precision": 0.9,
+    "recall": 1.0,
+    "f1-score": 0.9473684210526315,
+    "support": 9.0
+  },
+  "Tableware_water_bottle": {
+    "precision": 0.9,
+    "recall": 1.0,
+    "f1-score": 0.9473684210526315,
+    "support": 9.0
+  },
+  "Travel_backpack": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9.0
+  },
+  "personal_care_toothbrush": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9.0
+  },
+  "accuracy": 0.978021978021978,
+  "macro avg": {
+    "precision": 0.9800000000000001,
+    "recall": 0.9788888888888888,
+    "f1-score": 0.978328173374613,
+    "support": 91.0
+  },
+  "weighted avg": {
+    "precision": 0.9802197802197803,
+    "recall": 0.978021978021978,
+    "f1-score": 0.9779879563161297,
+    "support": 91.0
+  }
+}

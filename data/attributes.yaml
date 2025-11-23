@@ -1,0 +1,4 @@
+color: [red, blue, green, yellow, orange, purple, pink, brown, beige, black, white, gray, silver, gold, multicolor, transparent, unknown, steel, golden, peach]
+material: [plastic, metal, wood, glass, ceramic, fabric, leather, rubber, silicone, paper, foam, composite, unknown]
+condition: [new, used, broken, unknown]
+size: [small, medium, large, unknown]

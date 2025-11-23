@@ -1,0 +1,10 @@
+Clothing_wrist_watch
+Electronics_Accessories_mouse
+Personal_Care_shampoo_bottle
+cosmetics_nailpolish
+food_storage_plastic_container
+stationary_pen
+Clothing_belt
+Tableware_water_bottle
+Travel_backpack
+personal_care_toothbrush

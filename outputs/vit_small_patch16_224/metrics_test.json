@@ -1,0 +1,18 @@
+{
+  "class_acc": 0.967391304347826,
+  "class_f1_macro": 0.9671826625386997,
+  "class_f1_micro": 0.967391304347826,
+  "color_acc": 0.7717391304347826,
+  "color_f1_macro": 0.6369263033563236,
+  "material_acc": 0.8804347826086957,
+  "material_f1_macro": 0.8527987421383647,
+  "condition_acc": 0.8586956521739131,
+  "condition_f1_macro": 0.8524003455510305,
+  "size_acc": 0.8913043478260869,
+  "size_f1_macro": 0.5966407010710808,
+  "n_valid_class": 92,
+  "n_valid_color": 92,
+  "n_valid_material": 92,
+  "n_valid_condition": 92,
+  "n_valid_size": 92
+}

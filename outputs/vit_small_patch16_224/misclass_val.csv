@@ -1,0 +1,3 @@
+path,true,pred,pred_conf
+data/Images/Dataset_jk/Clothing_wrist_watch_B_004.jpg,Clothing_wrist_watch,Clothing_belt,0.6130274534225464
+data/Images/Dataset_prak/cosmetics_nailpolish_053.jpeg,cosmetics_nailpolish,Tableware_water_bottle,0.40431246161460876
